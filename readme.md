@@ -1,3 +1,6 @@
+Link para o vídeo do projeto:
+https://youtube.com/shorts/9rmMm2fkP1A?feature=share
+
 Para o desenvolvimento do projeto foram utilizados:
 - 1 LED verde
 - 1 LED amarelo
